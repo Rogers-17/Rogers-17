@@ -55,14 +55,11 @@
 
 ## 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23007ACC?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://habibadebayo.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-adebayo-76b00423a/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Habib__001)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23007ACC?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://rogersportfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-rogers-791589388/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+231779268242?text=Hello+Rogers)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedrogers579@gmail.com)
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/Rogers-17/count.svg)
-
-> **“Shipping fast is cool. Shipping maintainable, secure code at scale is legendary.”**
+⭐️ From [Rogers-17](https://github.com/Rogers-17)
