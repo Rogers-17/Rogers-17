@@ -55,7 +55,7 @@
 
 ## 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23007ACC?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://rogersportfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23007ACC?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://rogersporfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-rogers-791589388/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+231779268242?text=Hello+Rogers)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedrogers579@gmail.com)
