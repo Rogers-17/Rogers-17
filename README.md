@@ -6,9 +6,9 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **a Purity Test App for STARZ University**
+- 🔭 I’m currently working as a Software Developer at **A1 Technical Institute**
 - 🌱 I’m learning **System Design & LeetCode problems**
-- 💬 Ask me about **React, Next.js, Node.js, Express, MySQL, and Tailwind CSS**
+- 💬 Ask me about **React, Next.js, Node.js, Express, MySQL, PostgreSQL, Tailwind CSS etc..**
 - ⚡ Fun fact: *I love turning simple ideas into full-stack apps!*
 
 ---
